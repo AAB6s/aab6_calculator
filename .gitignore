@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# MCP / runtime temp
+*.tmp
+
+# Environment variables
+.env
+
+# Build / distribution
+dist/
+build/
+*.egg-info/

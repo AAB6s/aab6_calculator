@@ -1,0 +1,11 @@
+[project]
+name = "mcpserver"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "djangorestframework>=3.16.1",
+    "djangorestframework-simplejwt>=5.5.1",
+    "mcp[cli]>=1.22.0",
+]
