@@ -1,0 +1,11 @@
+[project]
+name = "aab6-calculator"
+version = "0.1.0"
+description = "Educational MCP examples for calculator and data lookup tools."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=2.0.0",
+    "mcp[cli]>=1.22.0",
+    "requests>=2.32.0",
+]
